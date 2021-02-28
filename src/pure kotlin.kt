@@ -12,8 +12,8 @@ fun name(){
 }
 fun modulus(){
     var c = 1000
-    var d = 3
-    var modulus=c%d
+    var e = 3
+    var modulus=c % e
     println(modulus)
 }
 fun addition(num1:Int,num2:Int,num3:Int,num4:Int):Int{
